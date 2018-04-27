@@ -40,7 +40,6 @@
   "dependencies": {
     "ajv": "^6.2.1",
     "browserify": "^16.1.0",
-    "create-torrent": "^3.29.2",
     "decode": "^0.3.0",
     "express": "^4.16.2",
     "fs-extra": "^5.0.0",
