@@ -38,15 +38,21 @@
   },
   "homepage": "https://github.com/pldubouilh/live-torrent#readme",
   "dependencies": {
+    "ajv": "^6.2.1",
     "browserify": "^16.1.0",
     "create-torrent": "^3.29.2",
+    "decode": "^0.3.0",
     "express": "^4.16.2",
     "fs-extra": "^5.0.0",
     "get-video-duration": "^0.2.0",
+    "http-proxy": "^1.16.2",
+    "memory-cache": "^0.2.0",
+    "minifyify": "^7.3.5",
     "parse-torrent": "^5.8.3",
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5",
-    "webtorrent": "^0.98.21",
+    "streaming-cache": "^0.5.1",
+    "webtorrent-hybrid": "^1.0.6",
     "yargs": "^11.0.0"
   },
   "devDependencies": {
@@ -55,3 +61,4 @@
     "tape": "^4.9.0"
   }
 }
+
